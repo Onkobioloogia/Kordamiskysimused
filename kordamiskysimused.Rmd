@@ -1,0 +1,143 @@
+---
+title: "Kordamisküsimused/Onkobioloogia 2014"
+author: "Taavi Päll"
+date: "04.01.2015"
+output: pdf_document
+---
+
+- Mis rakutüübist on vähk kõige sagedamini pärit, kuidas selliseid kasvajaid nimetatakse?
+- Epiteliaalsete kasvajate klassifikatsioon.
+- Mitteepiteliaalsete kasvajate klassifikatsioon.
+- Epiteliaalsed kasvajad pärinevad erinevatest lootelehtedest, näited.
+- Mis on adenokartsinoom ja lamerakk-kartsinoom?
+- Kuidas nimetakse vähke mis tekivad veres?
+- Nimeta kõige sagedasemad verevähi tüübid.
+- Missugust koelist päritolu on melanoomi moodustavad melanotsüüdid?
+- Missugust koelist päritolu on retinoblastoom?
+- Mis on kõige sagedasemad vähipaikmed, Eesti näitel?
+- Loetle transformeerunud rakkudele iseloomulikud omadused.
+- Iseloomusta inimese tuumorviiruseid ühe lausega. Kui palju on inimesel tuumoritega seotud viiruseid.
+- Mis on iseloomulik tunnus RNA viiruste onkogeenidele ja mis on iseloomulik DNA viiruste onkogeenidele.
+- Kas RNA või DNA viirused omavad rolli inimese vähis. Loetle olulisemad/paremini mõistetud inimese vähiga seotud viirused.
+- Missugused on viiruste tumorigeensed mehhanismid mis on relevantsed ka inimesel?
+- Milles seisnes RNA tuumorviiruste tähtsus vähi molekulaarsete mehhanismide mõistmisel.
+- Loetle retroviiruste onkovalkude funktsionaalseid klasse.
+- Missugune epidemioloogiline seos esineb hepatiidiviiruse ja maksakartsinoomide vahel?
+- Mis on protoonkogeen?
+- Milles seiseneb kartsinogeenide roll tumorigeneesis?
+- SRC oli kõige esimene onkogeen mis kirjeldati, mis geenid on aga inimese kasvajates kõige sagedamini muteerunud?
+- Missugused on onkogeenide aktivatsioonimehhanismid? Too näited.
+- Mille poolest osutus SRC omal ajal eriliseks?
+- Kuidas toimub retseptor türosiin kinaaside aktivatsioon?
+- Kuidas seletab retseptor türosiin kinaaside aktivatsiooni mudel nende üleekspressiooni kasvajates?
+- Missugused on veel mehhanismid retseptor türosiin kinaaside aktivatsioonil kasvajates? Too näiteid.
+- Missugune on RTK *kinaasse domääni aktivatsiooni* üldine mehhanism?
+- Loetle kasvufaktorite retseptoreid/signaaliradu mis on lisaks RTK-dele seotud kasvajatega.
+- Kuidas toimub RAS valkude aktiivsuse regulatsioon? RAS isovormid.
+- Mis on Src homoloogiliste (SH) domäänide funktsioon?
+- Kuidas RTK fosforülatsioon tekitab signalisatsiooni raku tsütoplasmas?
+- Kuidas on vahendatud RTK aktivatsioon RAS aktivatsiooniks?
+- Missugused on põhilised RAS aktiveeritud signaalirajad?
+- Kuidas RAS aktiveerib need signaalirajad?
+- Missugune MAP kinaasi rada aktiveeritkse vastusena kasvufaktorite stimulatsioonile? Missugune selle raja valk on sagedasti muteerunud melanoomides?
+- Kuidas toimub RAS vahendatud fosfatidüülinositool 3 kinaas (PI3K) PKB/Akt kinaasi raja aktivatsioon.
+- Missugused on Akt/PKB raja aktivatsiooni bioloogilised efektid?
+- Mis on tuumorsupressorgeen ja kuidas toimub selle funktsiooni kadumine rakus?
+- Missugused mehhanismid viivad tuumorsupressorgeeni ühe alleeli välja lülitamiseni?
+- Missuguseid geneetilisi muutusi mõeldakse vähi puhul heterosügootsuse kadumise all?
+- Mis on päriliku ja sporaadilise retinoblastoomi erinevus?
+- Loetle paar tuumorsupressorgeeni ja nende poolt põhjustatud vähisündroomi.
+- Kuidas on võimalik tuumorsupressorgeene nende funktsiooni alusel klassifitseerida. Näited?
+- Mis iseloomustab DNA hüpermetulatsiooni mustrit vähis? Kas see toimub geenispetsiifiliselt või hoopis laialt üle terve kromosoomi?
+- Kirjelda NF1, APC või VHL tuumorsupressorgeeni mehhanismi/funktsiooni (vali üks).
+- Mis on lühidalt rakutsükkel ja mis päritolu signaalid seda reguleerivad? ("Ground Control to Major Tom: your circuit's dead, there's something wrong")
+- Mis on rakkudes peamine anti-mitogeenne signaalirada?
+- Mis on G1 restriktsioonipunkt?
+- Kuidas on rakutsükli järk-järguline edenemine reguleeritud? KUidas seda kontrollitakse?
+- Mis on peamine mitogeenide poolt reguleeritud tsükliin-tsükliin kinaas?
+- Tsükliin kinaasi inhibiitorite perekonnad, mis on nende spetsiifika.
+- Kuidas toimub ja mille poolt toimub CDK4/6 inhibitsioon?
+- Kuidas toimuib TGF-beta raja raku jagunemist pidurdav mehhanism?
+- Mis on  peamine raku DNA kahjustuste poolt indutseeritud tsükliini kinaasi inhibiitor. Kuidas teda reguleeritakse näiteks mitogeense signalisatsiooni poolt.
+- Milles seisneb p21 ja p27 tsükliin-kinaasi inhibiitorite paradoks? Kuidas see aitab kaasa rakutsükli edenemisele?
+- Kirjelda retinoblastoomi (RB) fosforülatsiooni mustrit rakutsükli vältel. Mis valgud seda otseselt vahendavad?
+- Kuidas toimib RB, selle seos tema fosforüleerimisega?
+- Vähi mehhanismid RB funktsiooni tasalülitamiseks.
+- Mis funktsionaalsesse klassi kuulub p53 tuumorsupressorgeen ja missuguses domäänis sellel valgul kõige sagedamini mutatsioonid asuvad?
+- Kuidas p53 supramolekulaarselt toimib ja mis on funktsionaalselt iseloomulik mutantsetele p53 valkudele.
+- Mis tasemel on p53 valk reguleeritud? Nimeta regulaatorid ja nende funktsioonid.
+- Mis on üldine p53 indutseeriv stiimul ja mis on selle bioloogilised tagajärjed p53 valgu taseme tõusul rakus?
+- Mis on peamine p53 poolt indutseeritav rakutsüklit reguleeriv mehhanism.
+- Kuidas toimib MDM2 ja p19ARF p53 regulatsioon.
+- p53 märklaudgeenide funktsionaalsed klassid, näited.
+- Mis apoptoosi rajad toimivad rakus ja kuidas on need vähis väga üldisel tasemel dereguleeritud.
+- Millel põhineb kemoterapeutikumide vähirakkude vastane toime? kuidas näiteks melanoomid võivad saavutada kemoresistentsuse?
+- Mis on rakkude senesents ja missugused stiimuld seda indutseerivad?
+- Kuidas onkogeenid võivad rakkudel senesentsi põhjustada?
+- Mis on telomeerid ja kuidas need kontrollivad rakkude jagunemispotentsiaali?
+- Milles seisneb telomeeride tähtsus genoomi stabiilsusele?
+- Missugusel mehhanismil põhineb telomeeride lühenemine, kuidas see toimub?
+- Mis on vajalik rakkude immortalisatsiooniks?
+- Kuidas telomeere säilitatakse ja kuidas lahendub vähirakkudes telomeeride probleem?
+- Kuidas erinevad hiire ja inimese telomeerid? Kuidas ja kuna telomeeride korrashoiu mehhanismi puudumine hiirtel eksperimentaalselt väljendub.
+- Mida mõistetakse kasvaja progressiooni all ja millel see protsess põhineb?
+- Kuidas on vähiteke seotud vanusega? Mis määrab vähitekke tempo?
+- Miks mõned kasvajad ei sõltu vanusest? Näide.
+- Mis on juht/driver mutatsioon, kuidas need osalevad vähi arengus? 
+- Missugused on funktsionaalselt valdav enamus vähi genoomi tekkivad mutatsioonid?
+- Mis on põhilised rakulised protsessid milles vähis muteerunud geenid toimivad?
+- Kas driver mutatsioonid toimuvad vähi arengus mingis kindlas järjekorras? Nimeta mutatsioone soolevähi näitel.
+- Vähiala (*field cancerization*) mõiste.
+- Missuguste protsesside tagajärjel arvatavasti tekib vähi geneetiline heterogeensus? Mis on vähi geneetilise heterogeensuse tagajärg teraapia seisukohalt?
+- Normaalsete rakkude transformatsiooniks ei piisa ainult ühe geeni muteerumiseks. Mis klassidesse kuuluvad tavaliselt kollaboreeruvad onkogeenid? Näide.
+- Inimese rakud on transformatisoonile resistentsemad kui hiire rakud. Kuidas on ekperimentaalselt saavutatud inimese normaalste fibroblastide transformatsioon?
+- Kas mutatsioonid on piisavad vähi tekkeks ja mis on vähi 'promootorite' roll vähitekkes?
+- Kirjeldage suitsetamise ja alkoholi toimet suu ja kurgukasvajate tekkes?
+- Östrogeeni roll rinnavähi tekkes.
+- Hepatiit B ja alfatoksiinide toime maksakartinoomide tekkes.
+- Mis eristab tüvirakke ja transitoorselt jagunevaid rakke epiteelkoe regeneratsioonis.
+- Kuidas on koe tüvirakukompartement kaitstud DNA kahjustuste eest?
+- Mis on see bioloogiline protsess mille tõttu võivad mutatsioonid sattuda tüviraku nishi?
+- Missuguseid DNA muutusi parandavad DNA reparatsioonimehhanismid?
+- Mis membraanvalgud võivad tagada vähirakkudele ravimiresistentsuse? Kuidas nad toimivad.
+- Mis on *proofreading* ja *mismatch* DNA reparatsioon?
+- Kuidas väljendub vähi genoomis *mismatch* reparatsiooni kadumine? Näiteks soolevähis.
+- Missugused on raku endogeensete biokeemiliste protsesside tagajärjel tekkivad nukleotiidide muutused? Mis keemilised muutused siis nukleotiididega toimuvad?
+- Missugused on sagedasemad UV põhjustatud DNA kahjustused.
+- Kuidas suitsetamine mõjub mutatsioonisagedusele ja asenduste mustrile vähi genoomis?
+- Miks on välja arenenud mehhanismid kahjustunud nukleotiididest replikatsioonikahvli läbisünteesiks? Mis tagavad replikatsioonimasinavärgile sellise võime?
+- Kuidas toimib lämmastikalust välja lõikav reparatsioon (*base excision repair*)? Mis viitab, et BER funktsioonide kadumine on seotud vähi arenguga?
+- Kuidas toimib nukleotiide välja lõikav parandus (*nucleotide excision repair*) ja mis tüüpi mutatsioonidele see toimib?
+- Mis komponente esineb vähi mikrokeskkonnas?
+- Missugused normaalseid rakutüüpe võib leida vähist ja mis on arvatav bioloogiline mehhanism normaalsete rakkude värbamise taga?
+- Kuidas nimetatakse erinevate rakutüüpide vahelist signaliseerimist? Näiteid.
+- Kuidas vähirakud kontrollivad ümbritsevat stroomat?
+- Mis on need tunnused, mis viitavad vähi sarnasusele haavaga mis ei parane?
+- Mis on epiteliaal-mesenhümaalne transformatsioon (EMT)? Kus toimub EMT normaalsetes tingimustes ja kas EMT on vähimassis jälgitav?
+- Milles seisnevad vähi fibroblastide protumorigeensed mehhanismid?
+- Mis on TGF-beta roll vähis, kuidas vähirakud tolereerivad TGF-betat?
+- Missugused on tüüp 2 polariseeritud makrofaagide funktsioonid vähi mikrokeskkonnas?
+- Vähi angiogeneesi paradigma ja millest sõltub angiogenees vähi keskkonnas. Mis on peamine angiogeneesi soodustav kasvufaktor?
+- Kas vähi metastaatiline potentsiaal on vähi massis esindatud üksikute haruldaste kloonide näol või on see olmas suuremas osas vähimassis? Kuidas on võimalik vähi metastaatilist potentsiaali hinnata?
+- Mis samme sisaldab vähi metastaseerumise protsess?
+- Missugust immunohistokeemilist markerit saab kasutada vähi metatastaaside detekteerimiseks ja mikspärast?
+- Mis faktorid määravad metastaseeruva vähiraku leviku mustri ja mis faktorid määravad kolonisatsiooni mustri?
+- Missugune metastaasikaskaadi faas määrab metastaasi ebaefektiivsuse?
+- Kuidas soodustab maksa ja luuüdi endoteel vähiraku vereringst väljumist? 
+- Missugune anatoomiline iseärasus määrab soolevähi metastaaside peamise sihtmärgina maksa?
+- Mis on metastaatiline latentsus ja milles see väljendub?
+- Missugused vähirakkudes aktiveeritavaid lisamehhanisme on kirjeldatud, mis võimaldavad vähirakkude kolonisatsiooni sekundaarses koes?
+- Kuidas mõista vähi immuunoseiret ja immuunokujundamist?
+- Missugused tõendid viitavad sellele, et immuunsüsteem ikkagi kontrollib vähi teket ja arengut?
+- Miks ei ole raku onkogeenid immunogeensed? Missuguste vähi valkude vastu siiski võib tekkida immuunvastus?
+- Mis tüüpi vähis leiduvad T rakud on seotud pigem hea prognoosiga ja missugused halva prognoosiga? Lühidalt, miks?
+- Kuidas TGF-beta toimib vähi immuunsupressioonis?
+- Kirjelda eri vähitüüpide suremuse trende 20. sajandil.
+- Milleks on mõtekas määrata vähi biomarkereid?
+- Missugused on mittekirurgilise vähiravi strateegiad?
+- Missugused vähi valgud sobivad ravimimärklauaks ja missugused ei sobi?
+- Millisel fenomenil põhineb kindlate vähitüüpide märklaudravi? Näiteks BCR-ABL kinaasi inhibiitor imatinib?
+- Missugused on kasutuses olevate märklaudravimite klassid? Näiteid?
+- Mis arvatakse olevat biokeemiliselt ja struktuurselt iseloomulik ravimimärklauaks sobivatele valkudele? Mis on see prominentne onkogeen mida pole mõtet inhibeerida, miks nii.
+- Miks transkriptsioonifaktorid ei sobi hästi ravimimärklauaks? Kas on tähelepanuväärseid erandeid?
+- Kuhu seostuvad kinaasidel kinaasiinhibiitorid ja missugused mutatsioonid tagavad vähirakule resistentsuse selliste inhibiitorite vastu?
