@@ -1,8 +1,10 @@
 ---
 title: "Kordamisküsimused/Onkobioloogia 2016"
 author: "Taavi Päll"
-date: "`r Sys.Date()`"
+date: '`r Sys.Date()`'
 output:
+  pdf_document: 
+    latex_engine: xelatex
   html_document: default
 ---
 
